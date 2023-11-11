@@ -1,0 +1,12 @@
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+div>img{
+    border-radius: 2%;
+}
+body{
+    background-image: url(/assets/istockphoto-1066991874-612x612.jpg);
+}
